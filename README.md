@@ -13,12 +13,13 @@ Two tab-delimited text files ``data/training_data.txt`` and ``data/test_data.txt
 
 ## Getting started
 
-
+Two rmd files ``results/binary_9982.txt`` and ``results/multiclass_9982.txt`` are provided
 
 
 
 ## Result files
-Two result text files ``data/training_data.txt`` and ``data/test_data.txt`` are provided.
+
+Two result text files ``results/binary_9982.txt`` and ``results/multiclass_9982.txt`` are provided. The two files show the best prediction for the test data.
 
 
 
