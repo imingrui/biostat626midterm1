@@ -13,7 +13,7 @@ Two tab-delimited text files ``data/training_data.txt`` and ``data/test_data.txt
 
 ## Getting started
 
-Two rmd files ``results/binary_9982.txt`` and ``results/multiclass_9982.txt`` are provided
+Two rmd files ``Rmd files/Task1.Rmd`` and ``Rmd files/Task2.Rmd`` are provided including all attempts.
 
 
 
