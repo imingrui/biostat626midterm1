@@ -21,7 +21,7 @@ Two rmd files ``Rmd files/Task1.Rmd`` and ``Rmd files/Task2.Rmd`` are provided i
 
 Two result text files ``results/binary_9982.txt`` and ``results/multiclass_9982.txt`` are provided. The two files show the best prediction for the test data.
 
-
+The pdf file ``writeup.pdf`` is prvided which contains the process of the classifications and discussion about the final results. 
 
 
 
