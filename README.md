@@ -1,4 +1,4 @@
-# biostat626midterm1
+# Biostat626 Midterm1
 ## Data files 
 
 Two tab-delimited text files ``data/training_data.txt`` and ``data/test_data.txt`` are provided. The training data (labeled activity information included) should be used to construct and test your ML algorithms. Apply your algorithm to the test data (containing only feature information) and predict the activity corresponding to each time window.
